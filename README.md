@@ -1,6 +1,3 @@
-## Hi there 👋
-- ⚡ I’ve been building robust backend systems with Java (Spring Boot).
-- ⚡ I’m currently pursuing AWS Solutions Architect cert.
-- ⚡ I’m looking to collaborate on new projetcs
-  
-- Open to opportunities | Email: leandro.mileski@outlook.com | Explore my projects!
+## Full-Stack Developer & Cloud Solutions Enthusiast
+
+I’m a versatile developer with a passion for building scalable, efficient solutions. With extensive experience in back-end development (Java, Spring Boot, Node.js), cloud architecture (AWS), and front-end technologies (React, Next.js), I thrive on creating impactful projects, from MVPs to optimized production systems.
